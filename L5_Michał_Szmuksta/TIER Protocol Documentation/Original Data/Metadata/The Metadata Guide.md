@@ -24,7 +24,7 @@ Dane pochodzą z następującego źródła:
 https://github.com/dbouquin/IS_608/blob/master/NanosatDB_munging/Countries-Continents.csv.
 Poniżej przedstawiono opis każdej kolumny tabeli:
 - Nazwa kontynentu na którym leży dane państwo w języku Angielskim.
-- Nazwa państwa, którego w języku Angielskim.
+- Nazwa państwa w języku Angielskim.
 
 
 "countries-continents_additional_data.csv":
@@ -35,7 +35,7 @@ ręcznie za pomocą skryptu Creating_additional_table.py w folderze Command File
 są dostępnych w serwisie Wikipedia: https://en.wikipedia.org/wiki/Main_Page.
 Poniżej przedstawiono opis każdej kolumny tabeli:
 - Nazwa kontynentu na którym leży dane państwo w języku Angielskim.
-- Nazwa państwa, którego w języku Angielskim.
+- Nazwa państwa w języku Angielskim.
 
 
  
