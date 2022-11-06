@@ -2,6 +2,7 @@
 
 
 "drinks_final.csv":
+
 Poniżej przedstawiono opis każdej kolumny tabeli:
 
 - "country" - Nazwa państwa w języku Angielskim.
