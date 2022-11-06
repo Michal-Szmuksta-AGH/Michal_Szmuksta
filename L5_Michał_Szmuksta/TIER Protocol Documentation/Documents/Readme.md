@@ -17,7 +17,7 @@ Tu znajdziesz instrukcje replikacji w celu powtórzenia przetwarzania i analizy 
 - W celu uruchomienia skryptów niezbędne jest posiadanie IDE umożliwiającego interpretację języka python w wersji 3.10
 (np. Pycharm, VS Code). Niezbędne jest także posiadanie zainstalowanych pakietów: jupyterlab, pandas, pandasql oraz matplotlib.
 - Aby skrypty zadziałały poprawnie muszą znajdować się w folderze "Command Files" równolegle z pustym folderem "Analysis Data"
-oraz folderem Original Data zawierającym dwa pliki danych w formacie csv: "drinks" oraz "countries-continents".
+oraz folderem "Original Data" zawierającym dwa pliki danych w formacie csv: "drinks" oraz "countries-continents".
 - Folderem roboczym będzie "Command Files" zawierający wszystkie trzy skrypty "Creating_additional_table.py",
 "Data_processing_script.ipynb" oraz "Data_analysis_script.ipynb".
 - W celu przeprowadzenia poprawnej replikacji skrypty muszą być uruchamiane w następującej kolejności:
