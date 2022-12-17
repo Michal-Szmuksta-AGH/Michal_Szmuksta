@@ -3,16 +3,16 @@
 Odp.: W tabeli nyc_streets znajduje się 19019 rekordów.
 Odpowiedź na to pytanie uzyskano wykonując następujące zapytanie:
 
-SELECT count(*) FROM "public"."nyc_streets"
+i. SELECT count(*) FROM "public"."nyc_streets"
 
 2. Ile ulic w Nowym Jorku ma nazwy zaczynające się na „B”, „Q” i „M”?
 
 Odp.: W Nowym Jorku znajdują się 1282 ulice zaczynające się na "B", 68 ulic zaczynających się na "Q" i 752 ulice zaczynające się na "M".
 Odpowiedź na to pytanie uzyskano wykonując następujące zapytania:
 
-SELECT count(*) FROM "public"."nyc_streets" WHERE name LIKE 'B%'
-SELECT count(*) FROM "public"."nyc_streets" WHERE name LIKE 'Q%'
-SELECT count(*) FROM "public"."nyc_streets" WHERE name LIKE 'M%'
+i. SELECT count(*) FROM "public"."nyc_streets" WHERE name LIKE 'B%'
+ii. SELECT count(*) FROM "public"."nyc_streets" WHERE name LIKE 'Q%'
+iii. SELECT count(*) FROM "public"."nyc_streets" WHERE name LIKE 'M%'
 
 3. Jaka jest populacja miasta Nowy Jork?
 
